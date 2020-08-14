@@ -8,104 +8,8 @@
     </url>
 
     <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-07-25-getting-started-with-expressjs/</loc>
-        <lastmod>2019-05-20T15:22:49.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2018-02-24-socket-io-has-infinite-connect/</loc>
-        <lastmod>2019-05-20T15:21:40.746Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-03-27-package-ampersand/</loc>
-        <lastmod>2019-05-19T16:03:03.038Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-03-28-learning/</loc>
-        <lastmod>2019-05-19T16:02:52.551Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-04-16-add-url-to-search-engine/</loc>
-        <lastmod>2019-05-19T16:02:40.303Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-06-07-bash-to-fish/</loc>
-        <lastmod>2019-05-19T16:02:31.641Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-08-15-getting-started-with-rvm/</loc>
-        <lastmod>2019-05-19T16:02:10.257Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2017-01-02-use-line-messaging-api/</loc>
-        <lastmod>2019-05-19T16:02:02.361Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2017-01-27-mail-tracking/</loc>
-        <lastmod>2019-05-19T16:01:53.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2017-11-16-first-organizer/</loc>
-        <lastmod>2019-05-19T16:01:44.010Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2018-03-03-line-login-with-passportjs/</loc>
-        <lastmod>2019-05-19T16:01:21.045Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2018-05-16-open-source-and-privacy/</loc>
-        <lastmod>2019-05-19T07:09:56.959Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://blog.ivanwei.co/zh-tw/2015-10-11-build-blog-by-hexojs/</loc>
-        <lastmod>2019-05-18T06:48:18.439Z</lastmod>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -113,7 +17,103 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2016-01-03-add-disqus-to-blog-by-hexo/</loc>
-        <lastmod>2019-05-18T06:48:18.439Z</lastmod>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-03-27-package-ampersand/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-03-28-learning/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-04-16-add-url-to-search-engine/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-06-07-bash-to-fish/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-07-25-getting-started-with-expressjs/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-08-15-getting-started-with-rvm/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2017-01-02-use-line-messaging-api/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2017-01-27-mail-tracking/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2017-11-16-first-organizer/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2018-02-24-socket-io-has-infinite-connect/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2018-03-03-line-login-with-passportjs/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2018-05-16-open-source-and-privacy/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

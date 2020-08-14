@@ -3,85 +3,85 @@
 
 
     <url>
-        <loc>https://blog.ivanwei.co/tags/Testing/</loc>
-        <lastmod>2019-05-20T15:22:49.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/tags/Learn/</loc>
-        <lastmod>2019-05-20T15:22:49.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/tags/Nodejs/</loc>
-        <lastmod>2019-05-20T15:22:49.882Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/tags/SEO/</loc>
-        <lastmod>2019-05-19T16:02:40.303Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/tags/Shell/</loc>
-        <lastmod>2019-05-19T16:02:31.641Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/tags/Ruby/</loc>
-        <lastmod>2019-05-19T16:02:10.257Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/tags/Tools/</loc>
-        <lastmod>2019-05-19T16:01:53.153Z</lastmod>
+        <loc>https://blog.ivanwei.co/tags/Privacy/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://blog.ivanwei.co/tags/Conference/</loc>
-        <lastmod>2019-05-19T16:01:44.010Z</lastmod>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://blog.ivanwei.co/tags/Privacy/</loc>
-        <lastmod>2019-05-19T07:09:56.959Z</lastmod>
+        <loc>https://blog.ivanwei.co/tags/Tools/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/tags/Ruby/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/tags/Testing/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/tags/Shell/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/tags/SEO/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/tags/Learn/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/tags/Nodejs/</loc>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://blog.ivanwei.co/tags/Disqus/</loc>
-        <lastmod>2019-05-18T06:48:18.439Z</lastmod>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://blog.ivanwei.co/tags/Blog/</loc>
-        <lastmod>2019-05-18T06:48:18.439Z</lastmod>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://blog.ivanwei.co/tags/Deploy/</loc>
-        <lastmod>2019-05-18T06:48:18.439Z</lastmod>
+        <lastmod>2020-08-14T02:47:33.256Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
