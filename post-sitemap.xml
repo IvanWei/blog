@@ -9,32 +9,8 @@
 
 
     <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2018-05-16-open-source-and-privacy/</loc>
-        <lastmod>2021-03-08T01:00:52.296Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2020-10-04-dcit-upgrade/</loc>
-        <lastmod>2021-03-08T01:00:52.296Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://blog.ivanwei.co/zh-tw/2015-10-11-build-blog-by-hexojs/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-01-03-add-disqus-to-blog-by-hexo/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -42,7 +18,15 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2016-03-27-package-ampersand/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-01-03-add-disqus-to-blog-by-hexo/</loc>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -50,15 +34,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2016-03-28-learning/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://blog.ivanwei.co/zh-tw/2016-04-16-add-url-to-search-engine/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -66,7 +42,15 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2016-06-07-bash-to-fish/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2016-04-16-add-url-to-search-engine/</loc>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -74,7 +58,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2016-07-25-getting-started-with-expressjs/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -82,7 +66,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2016-08-15-getting-started-with-rvm/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -90,7 +74,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2017-01-02-use-line-messaging-api/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -98,7 +82,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2017-01-27-mail-tracking/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -106,7 +90,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2017-11-16-first-organizer/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -114,7 +98,7 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2018-02-24-socket-io-has-infinite-connect/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -122,7 +106,23 @@
 
     <url>
         <loc>https://blog.ivanwei.co/zh-tw/2018-03-03-line-login-with-passportjs/</loc>
-        <lastmod>2021-03-08T01:00:52.292Z</lastmod>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2018-05-16-open-source-and-privacy/</loc>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://blog.ivanwei.co/zh-tw/2020-10-04-dcit-upgrade/</loc>
+        <lastmod>2021-03-08T01:02:51.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
